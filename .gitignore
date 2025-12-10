@@ -1,2 +1,6 @@
 .env
 venv/
+flipkart/config.py
+config.py
+flipkart/config
+config
